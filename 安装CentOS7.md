@@ -2,15 +2,15 @@
 
 ## 下载镜像
 
-[下载地址](http://isoredirect.centos.org/centos/8/isos/x86_64/)
+[下载地址](http://isoredirect.centos.org/centos/7/isos/x86_64/)
 
 其中有各种国内CentOS的镜像，可以选择相应的镜像下载地址下载，我下载的是：[CentOS-7-x86_64-Everything-2009.iso](https://mirrors.tuna.tsinghua.edu.cn/centos/7.9.2009/isos/x86_64/CentOS-7-x86_64-Everything-2009.iso)
 
 ### CentOS各镜像版本说明
 
-- everything：完整版本
+- Everything：完整版本
 - DVD：有大部分安装软件的版本
-- minimal：最小安装光盘版
+- Minimal：最小安装光盘版
 
 ## 安装CentOS
 
